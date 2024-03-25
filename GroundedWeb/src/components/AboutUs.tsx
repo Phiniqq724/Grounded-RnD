@@ -10,13 +10,13 @@ export default function AboutUs(){
                             About <span className="text-oranges">Us</span>
                         </h1>
                         <p className="font-nunito max-w-xl text-2xl mt-4">
-                            Kami bermimpi mengembangkan produk-produk <span className="text-lightorange">inovatif</span> yang bermanfaat bagi masyarakat dan <span className="text-lightorange">berkontribusi positif</span> bagi dunia.
+                            Grounded adalah sebuah tim <span className="text-lightorange">Development</span> yang bergerak di bidang <span className="text-lightorange">Ilmu dan Teknologi</span>. Dengan mengandalkan IT, Kami bermimpi mengembangkan produk-produk <span className="text-lightorange">inovatif</span> yang bermanfaat bagi masyarakat dan <span className="text-lightorange">berkontribusi positif</span> bagi dunia.
                         </p>
                     </div>
                 </div>
                 <div className=" items-end">
                     <img src={Tasikmalaya} alt="" className="mr-24" />
-                    <p className="text-white text-right mr-24 font-inconsolata text-xl">Tasikmalaya, 14 Okt 2023</p>
+                    <p className="text-white text-right mr-24 font-inconsolata text-xl pb-24">Tasikmalaya, 14 Okt 2023</p>
                 </div>
             </div>
         </>
