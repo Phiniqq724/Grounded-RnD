@@ -9,11 +9,12 @@ export default {
     extend: {
       fontFamily: {
         'nunito': ["Nunito Sans", "sans-serif"],
-        raleway: ["Raleway", "sans-serif"]
+        raleway: ["Raleway", "sans-serif"],
+        inconsolata: ["Inconsolata", "monospace"]
       },
       colors: {
         'lightorange': '#F2994A',
-        'orange': '#F57A00',
+        'oranges': '#F57A00',
         'darkaccent': '#474249',
         'strongorange': '#F56700',
         'dark': '#2A272B'
