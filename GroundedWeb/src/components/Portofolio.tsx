@@ -5,7 +5,7 @@ import PyroEyes from "../../public/PyroEyes.jpg"
 
 export default function Portofolio() {
     return(
-        <div className="bg-dark flex justify-center">
+        <div className="bg-dark flex justify-center" id="Porto">
             <div>
             </div>
             <div className="justify-center items-center mt-24">
@@ -13,7 +13,7 @@ export default function Portofolio() {
                     <div></div>
                     <h1 className="font-raleway text-white font-medium text-3xl">Certificate & Projects</h1>
                 </div>
-                <div className=" w-[875px] h-[545px] mt-6 mb-24 " id="Porto">
+                <div className=" w-[875px] h-[545px] mt-8 mb-64 ">
                     <CarouselComp Source1={Sertifikat1} Source2={Smartaca} Source3={PyroEyes} />
                 </div>
             </div>

@@ -16,7 +16,7 @@ export default function AboutUs(){
                 </div>
                 <div className=" items-end">
                     <img src={Tasikmalaya} alt="" className="mr-24" />
-                    <p className="text-white text-right mr-24 font-inconsolata text-xl pb-24">Tasikmalaya, 14 Okt 2023</p>
+                    <p className="text-white text-right mr-24 font-inconsolata text-xl pb-24 mb-24">Tasikmalaya, 14 Okt 2023</p>
                 </div>
             </div>
         </>
