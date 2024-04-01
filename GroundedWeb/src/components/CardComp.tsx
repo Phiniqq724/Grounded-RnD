@@ -1,5 +1,5 @@
 import { Card } from "flowbite-react"
-import ButtonOrange from "./ButtonOrange"
+import ButtonWhite from "./ButtonWhite"
 
 export default function CardComp({image, judul, isi}:any){
     return(
@@ -14,7 +14,7 @@ export default function CardComp({image, judul, isi}:any){
                 <p className="font-normal text-white mb-4">
                     {isi}
                 </p>
-                <ButtonOrange buttonText="More" buttonLink="#" />
+                <ButtonWhite buttonText="More" buttonLink="#" />
         </Card>
     )
 }
