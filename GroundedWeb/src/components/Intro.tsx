@@ -1,7 +1,7 @@
 export default function Intro() {
-    return (
-        <>
-            <h1>Introducting</h1>
-        </>
-    )
+  return (
+    <>
+      <h1>Introducting</h1>
+    </>
+  );
 }

@@ -1,6 +1,4 @@
 import Form from "./Form"
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { FontAwesomeIconProps } from "@fortawesome/react-fontawesome"
 
 export default function ContactUs() {
     return (
@@ -14,8 +12,7 @@ export default function ContactUs() {
                             <Form />
                     </div>
                 </div>
-                <div className="flex items-center">
-                    <FontAwesomeIcon icon="fa-brands fa-github" />
+                <div className="flex justify-center items-center">
                 </div>
             </div>
         </>
